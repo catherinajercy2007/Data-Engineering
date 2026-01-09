@@ -1,7 +1,7 @@
 # Data Engineering Internship Project – Railway Data Analysis
 
 ## Overview
-This project was completed as part of my **Data Engineering Internship at Cognify Technologies**.  
+This project was completed as part of my **Data Engineering Internship at Cognifyz Technologies**.  
 It demonstrates a complete data engineering workflow, including data ingestion, cleaning, transformation, analysis, and visualization using Python.
 
 The objective of this project is to analyze railway operational data and extract meaningful insights through structured data processing techniques.
@@ -83,4 +83,4 @@ The workflow and outputs are designed to support downstream analytics and report
 ## Author
 **Catherina Jercy**  
 Data Engineer Intern  
-Cognify Technologies
+Cognifyz Technologies
